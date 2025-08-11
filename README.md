@@ -7,7 +7,7 @@ Complete automation scripts for installing and managing Pipe Network Firestarter
 **One-line installation** - automatically handles everything:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/karine001/Firestarter-pipe-node/main/scripts/install.sh | sudo bash
+curl -sSL https://raw.githubusercontent.com/karine001/Firestarter-pipe-storage/main/scripts/install.sh | sudo bash
 ```
 
 ## 🛠️ Manual Installation
@@ -16,7 +16,7 @@ curl -sSL https://raw.githubusercontent.com/karine001/Firestarter-pipe-node/main
 
 ```bash
 # Download the manual installer
-wget https://raw.githubusercontent.com/karine001/Firestarter-pipe-node/main/scripts/manual-install.sh
+wget https://raw.githubusercontent.com/karine001/Firestarter-pipe-storage/main/scripts/manual-install.sh
 
 # Make it executable
 chmod +x manual-install.sh
@@ -94,7 +94,7 @@ sudo ./manual-install.sh
 
 ```bash
 # Remove everything cleanly
-wget https://raw.githubusercontent.com/karine001/Firestarter-pipe-node/main/scripts/uninstall.sh
+wget https://raw.githubusercontent.com/karine001/Firestarter-pipe-storage/main/scripts/uninstall.sh
 chmod +x uninstall.sh
 sudo ./uninstall.sh
 ```
