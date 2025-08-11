@@ -4,7 +4,7 @@
 # 🔥 PIPE FIRESTARTER - QUICK INSTALL SCRIPT 🔥
 # ======================================================
 # One-line automated installation for Pipe Network Firestarter Node
-# Usage: curl -sSL https://raw.githubusercontent.com/karine001/Firestarter-pipe-node/main/scripts/install.sh | sudo bash
+# Usage: curl -sSL https://raw.githubusercontent.com/karine001/Firestarter-pipe-storage/main/scripts/install.sh | sudo bash
 # ======================================================
 
 set -e
@@ -337,7 +337,7 @@ echo "============="
 echo "📖 Full Guide: https://tokiostack.com/guides/pipe-firestarter"
 echo "💬 Discord: https://discord.gg/pipenetwork"
 echo "💰 SOL Faucet: https://faucet.solana.com/"
-echo "🆘 Support: https://github.com/karine001/Firestarter-pipe-node/issues"
+echo "🆘 Support: https://github.com/karine001/Firestarter-pipe-storage/issues"
 echo ""
 
 log "🔥 Pipe Firestarter node ready! Happy storing! 🚀"
