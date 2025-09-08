@@ -177,7 +177,7 @@ pipe check-token
 **Expected output:**
 ```
 Token Balance for user: [your-user-id]
-Pubkey: EY6GskquGV1CurEpDJVJNwN7jFUNP9NbjtdBm6KSwyxE
+Pubkey: [your-solana-address]
 Mint: 35mhJor7qTD212YXdLkB8sRzTbaYRXmTzHTCFSDP5voJ
 Amount: 0
 ```

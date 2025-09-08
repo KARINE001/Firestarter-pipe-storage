@@ -43,8 +43,8 @@
 pipe check-token
 
 # Copy these values:
-# - User ID: 14bab6ea-fc11-49bc-9540-964ab379d183
-# - Pubkey: EY6GskquGV1CurEpDJVJNwN7jFUNP9NbjtdBm6KSwyxE
+# - User ID: [your-user-id-from-pipe-check-token]
+# - Pubkey: [your-solana-address]
 ```
 
 ### 2. Ensure You Have Public Links
